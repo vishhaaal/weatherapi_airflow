@@ -57,4 +57,3 @@ The transformed weather data is saved in a CSV file with a timestamp appended to
 
 - Author: Vishal (GitHub: [vishhaaal](https://github.com/vishhaaal))
 
-Feel free to customize this README to include additional information about your project or any specific instructions for your users.
